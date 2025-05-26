@@ -9,7 +9,7 @@ The login authentication logic and the tasks database for each user are not impl
 * User friendly interface for typing required tasks
 * Add button for adding new task(s)
 * Edit button for editing and update task(s)
-• Delete button for deleting task(s).
+* Delete button for deleting task(s).
 
 ### Obs.:
 Currently, the 'checking or unchecking of task' functionalities which tells the completion of task are not implemented, since I considered focusing on CRUD operations to build this web app. Maybe I'll implement this later on.
